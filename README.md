@@ -1,6 +1,6 @@
 # Superstore Sales Dashboard
 
-Power BI dashboard for exploring Superstore sales, profit, customers, products, shipping, and short-term sales trends.
+Power BI dashboard for exploring Superstore sales, profit, customers, products, shipping, and short term sales trends.
 
 ## Project Contents
 
@@ -53,3 +53,7 @@ The dataset is distributed across the four regions as follows: West (1,901 rows)
 - Dates are stored in `dd-MM-yyyy` format in the CSV and may need locale-aware parsing when the source is reconnected.
 - `Returns` contains `#N/A` values in the supplied source and should be cleaned or handled explicitly before using it in calculations.
 - `ind1` and `ind2` are present in the source header but are blank in the supplied records.
+
+## Output
+<img width="1230" height="706" alt="SUperstore Sales Dashboard" src="https://github.com/user-attachments/assets/8323c97b-ce46-4759-82c9-c6b482d442aa" />
+<img width="1230" height="703" alt="Forecast Dashboard" src="https://github.com/user-attachments/assets/96788a60-9e6c-4e41-aea4-b006cef9d34c" />
